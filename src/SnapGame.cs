@@ -25,6 +25,7 @@ namespace CardGames
 			if (SwinGame.KeyTyped (KeyCode.vk_SPACE))
 			{
 				myGame.Start ();
+<<<<<<< HEAD
 			}
 			if (myGame.IsStarted) 
 			{ 
@@ -41,6 +42,8 @@ namespace CardGames
 				{ 
 					myGame.PlayerHit (1);  
 				}
+=======
+>>>>>>> 2300a4cfd823b64bd754bb2cfdd1a06f781b1c47
 			}
 		}
 
